@@ -1,0 +1,38 @@
+/* стиль карты на полном экране */
+.bg-map-menu .tn-atom {
+    border-radius: 16px 16px 0 0;
+}
+#map {
+    border-radius: 0px!important;
+}
+#map-2 {
+    border-radius: 0px!important;
+}
+/* Стиль навигации карты на полном экране */
+/* .t794__tooltip-menu {
+    left: 0!important;
+    right: 0!important;
+    bottom: 72px!important;
+    margin: 0 auto;
+    zoom: 1.219;    
+}
+.t794__content {
+    padding: 8px!important;
+}
+.t794__list_item {
+    padding: 8px;
+    margin-bottom: 8px!important;
+    border-radius: 8px;
+    background-color: #1D1D1D;
+    }
+.map-button .tn-atom {
+    box-shadow: inset 0px 2px 10px #ffffff1c;
+}
+.t794__arrow::after {
+    width: 10px;
+    height: 10px;
+    background: url(https://static.tildacdn.biz/tild3762-3230-4438-a135-386232656165/Arrow.svg) center center / cover no-repeat;
+    background-size: contain;
+    border-style: none;
+    border-width: 0;
+} */
