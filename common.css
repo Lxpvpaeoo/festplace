@@ -71,6 +71,16 @@
     top: 14px!important;
     right: 20px!important;
 }
+/* стиль табов */
+.t395__tab {
+    border-radius: 18px;
+    margin: 10px !important;
+}
+.t395 .t395__wrapper {
+    background-color: #171717;
+    padding: 2px;
+    border-radius: 20px; 
+}
 @media screen and (max-width: 960px) {
 /* Стиль аккардиона / главная / faq */
     .t668 {
