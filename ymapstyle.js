@@ -7077,7 +7077,7 @@ initMap(
     // метка лагеря дома на колесах
     const markerElementMotohome = document.createElement('div');
     markerElementMotohome.className = 'marker-class-motohome';
-    markerElementMotohome.innerText = "Лагерь 'Дом на колесах'";
+    markerElementMotohome.innerText = "Дом на колесах";
 
     const markerMotohome = new YMapMarker(
       {
